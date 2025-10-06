@@ -1,0 +1,172 @@
+{
+  "produtos": [
+    {
+      "id": "101",
+      "nome": "Fone Bluetooth",
+      "descricao": "Fone de ouvido sem fio com cancelamento de ruído.",
+      "preco": 149.9,
+      "categoria": "Eletrônicos"
+    },
+    {
+      "id": "102",
+      "nome": "Calça Jeans Slim",
+      "descricao": "Calça jeans com caimento slim e lavagem clara.",
+      "preco": 119.9,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "103",
+      "nome": "Livro 'O Hobbit'",
+      "descricao": "Clássico da literatura fantástica de J.R.R. Tolkien.",
+      "preco": 44.9,
+      "categoria": "Livros"
+    },
+    {
+      "id": "104",
+      "nome": "Copo Térmico",
+      "descricao": "Copo térmico 500ml ideal para bebidas quentes ou frias.",
+      "preco": 59.9,
+      "categoria": "Outros"
+    },
+    {
+      "id": "105",
+      "nome": "Camisa Polo",
+      "descricao": "Camisa polo masculina com tecido leve e confortável.",
+      "preco": 89.9,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "dd5f",
+      "nome": "Smartwatch X",
+      "descricao": "",
+      "preco": 29999,
+      "categoria": "Eletrônicos"
+    },
+    {
+      "id": "9d62",
+      "nome": "gsdfg",
+      "descricao": "sdfgsd",
+      "preco": null,
+      "categoria": "Livros"
+    },
+    {
+      "id": "2d38",
+      "nome": "Calça Jeans",
+      "descricao": "Calça jeans de alta qualidade com frete grátis.",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "5900",
+      "nome": "Calça Jeans",
+      "descricao": "Calça jeans de alta qualidade com frete grátis.",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "6723",
+      "nome": "",
+      "descricao": "Calça jeans de alta qualidade com frete grátis.",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "b1e6",
+      "nome": "Calça Jeans",
+      "descricao": "Calça jeans de alta qualidade com frete grátis.",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "9685",
+      "nome": "Calça Jeans",
+      "descricao": "Calça jeans de alta qualidade com frete grátis.",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "75dc",
+      "nome": "Calça Jeans",
+      "descricao": "",
+      "preco": null,
+      "categoria": "Categoria"
+    },
+    {
+      "id": "7d3a",
+      "nome": "Calça Jeans",
+      "descricao": "Calça jeans de alta qualidade com frete grátis.",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "1f7a",
+      "nome": "",
+      "descricao": "Calça jeans de alta qualidade com frete grátis.",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "7879",
+      "nome": "Calça Jeans",
+      "descricao": "Calça jeans de alta qualidade com frete grátis.",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "3161",
+      "nome": "Calça Jeans",
+      "descricao": "",
+      "preco": null,
+      "categoria": "Categoria"
+    },
+    {
+      "id": "4884",
+      "nome": "",
+      "descricao": "",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "7cbe",
+      "nome": "",
+      "descricao": "",
+      "preco": 52,
+      "categoria": "Categoria"
+    },
+    {
+      "id": "fe47",
+      "nome": "Calça Jeans",
+      "descricao": "Calça jeans de alta qualidade com frete grátis.",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "189a",
+      "nome": "Calça Jeans",
+      "descricao": "",
+      "preco": 52,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "89cd",
+      "nome": "Calça Jeans",
+      "descricao": "",
+      "preco": 52,
+      "categoria": "Categoria"
+    },
+    {
+      "id": "a8db",
+      "nome": "Calça Jeans",
+      "descricao": "",
+      "preco": null,
+      "categoria": "Roupas"
+    },
+    {
+      "id": "166f",
+      "nome": "Dani Boy",
+      "descricao": "Valioso",
+      "preco": 1e+56,
+      "categoria": "Outros"
+    }
+  ]
+}
